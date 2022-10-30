@@ -1,0 +1,17 @@
+<menu>
+    <food>
+        <name>Thai Noodle</name>
+        <price>$15</price>
+        <calorie>280</calorie>
+    </food>
+    <food>
+        <name>French Fried</name>
+        <price>$15</price>
+        <calorie>420</calorie>
+    </food>
+    <food>
+        <name>French Fried</name>
+        <price>$15</price>
+        <calorie>420</calorie>
+    </food>
+</menu>
