@@ -1,5 +1,25 @@
 <menu>
     <food>
+        <name>Pizza</name>
+        <price>$20</price>
+        <calorie>560</calorie>
+    </food>
+    <food>
+        <name>Hotdog</name>
+        <price>$12</price>
+        <calorie>380</calorie>
+    </food>
+    <food>
+        <name>Timsum</name>
+        <price>$12</price>
+        <calorie>260</calorie>
+    </food>
+    <food>
+        <name>Spaghetti</name>
+        <price>$30</price>
+        <calorie>350</calorie>
+    </food>
+    <food>
         <name>Thai Noodle</name>
         <price>$15</price>
         <calorie>280</calorie>
@@ -10,8 +30,8 @@
         <calorie>420</calorie>
     </food>
     <food>
-        <name>French Fried</name>
-        <price>$15</price>
-        <calorie>420</calorie>
+        <name>ข้าวเหนียวมะม่วง</name>
+        <price>$30</price>
+        <calorie>700</calorie>
     </food>
 </menu>
